@@ -1,0 +1,20 @@
+.nav .active {
+    border-bottom: 1px solid #fff;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    background-color: darkolivegreen;
+    padding: 30px;
+    box-shadow: 0 0 11px -1px black;
+}
+.nav a {
+    margin: 5px 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+}

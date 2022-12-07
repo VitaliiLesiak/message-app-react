@@ -1,0 +1,1 @@
+json-server --watch data/messages.json --port 3004

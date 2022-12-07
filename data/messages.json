@@ -1,0 +1,44 @@
+{
+    "message": [
+        {
+            "id": 1,
+            "titleName": "Message 1",
+            "from": "sender@gmail.com",
+            "to": "you",
+            "title": "Hello",
+            "mess": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At aliquam libero laudantium quas asperiores inventore a vel voluptates sequi beatae quia molestiae ut, ad delectus? Provident ullam consectetur rem quae?"
+        },
+        {
+            "id": 2,
+            "titleName": "Message 2",
+            "from": "john@gmail.com",
+            "to": "you",
+            "title": "Happy",
+            "mess": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At aliquam libero laudantium quas asperiores inventore a vel voluptates sequi beatae quia molestiae ut, ad delectus? Provident ullam consectetur rem quae?"
+        },
+        {
+            "id": 3,
+            "titleName": "Message 3",
+            "from": "richard@gmail.com",
+            "to": "you",
+            "title": "Qwerty",
+            "mess": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At aliquam libero laudantium quas asperiores inventore a vel voluptates sequi beatae quia molestiae ut, ad delectus? Provident ullam consectetur rem quae?"
+        },
+        {
+            "id": 4,
+            "titleName": "Message 4",
+            "from": "melisa@gmail.com",
+            "to": "you",
+            "title": "Hi Jacky",
+            "mess": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At aliquam libero laudantium quas asperiores inventore a vel voluptates sequi beatae quia molestiae ut, ad delectus? Provident ullam consectetur rem quae?"
+        },
+        {
+            "id": 5,
+            "titleName": "Message 5",
+            "from": "elisa.beth@gmail.com",
+            "to": "you",
+            "title": "Hello",
+            "mess": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At aliquam libero laudantium quas asperiores inventore a vel voluptates sequi beatae quia molestiae ut, ad delectus? Provident ullam consectetur rem quae?"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+.ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding: 30px 50px;
+    border-right: 3px solid lightskyblue;
+}
+.ul li {
+    margin: 20px 0;
+}
+.ul li a {
+    font-size: 23px;
+    text-decoration: none;
+    color: #000;
+}
+
+.block__message {
+    display: flex;
+    border: 3px solid lightskyblue;
+    align-items: center;
+}
+.ul li .activeProduct {
+    font-weight: bold;
+    color: lightskyblue;
+}
+.message-form {
+    padding: 30px 50px;
+}
+.widht {
+    min-width: 500px;
+}
